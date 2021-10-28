@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/0.arrays/array_from_permutations/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/0.arrays/concat_array/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/0.arrays/final_value_after_operations/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/1.trees/deepest_leaves_sum/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/2.strings/find_first_unique_char/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/2.strings/group_anagrams/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/4.dynamic_programming/word_break/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/0.arrays/bubble_sort/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/0.arrays/quick_sort/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/5.matrix/count_islands/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/2.strings/longest_substring/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/2.strings/longest_palindrome/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/0.arrays/three_sum/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/2.strings/word_break2/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/5.matrix/rotate_matrix/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/0.arrays/permutations/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/0.arrays/merge_sort/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fe1c522-4749-4526-a562-1e2ae3402b59" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/0.arrays/merge_sort" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="t600uy94" />
+  </component>
+  <component name="ProjectId" id="1zodTTfkSgnxtBzprRKLE6RHWSg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/0.arrays/merge_sort/Cargo.toml" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/0.arrays" />
+      <recent name="$PROJECT_DIR$/3.hash_maps" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cargo.Run merge_sort">
+    <configuration name="Run find_first_unique_char" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package find_first_unique_char --bin find_first_unique_char" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/2.strings/find_first_unique_char" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run group_anagrams" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package group_anagrams --bin group_anagrams" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/2.strings/group_anagrams" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run merge_sort" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package merge_sort --bin merge_sort" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/0.arrays/merge_sort" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run word_break" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package word_break --bin word_break" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/4.dynamic_programming/word_break" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Run merge_sort" />
+        <item itemvalue="Cargo.Run word_break" />
+        <item itemvalue="Cargo.Run group_anagrams" />
+        <item itemvalue="Cargo.Run find_first_unique_char" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="useRustfmt" value="true" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fe1c522-4749-4526-a562-1e2ae3402b59" name="Changes" comment="" />
+      <created>1634818381737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634818381737</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/two_sum" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

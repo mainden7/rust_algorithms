@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/0.arrays/array_from_permutations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/0.arrays/bsearch_insert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/0.arrays/comb_sum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/0.arrays/concat_array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/0.arrays/jump_game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/0.arrays/merge_2_lists" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/0.arrays/merge_sort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/0.arrays/two_sum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2.strings/find_substr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2.strings/generate_parentheses" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2.strings/longest_common_prefix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2.strings/valid_parentheses" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4.dynamic_programming/coin_change" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4.dynamic_programming/decode_ways" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4.dynamic_programming/delete_operations_number" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4.dynamic_programming/edit_distance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4.dynamic_programming/min_cost_tickets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bsearch_insert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/coin_change" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/comb_sum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/decode_ways" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/delete_operations_number" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/edit_distance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/find_substr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generate_parentheses" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jump_game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/letter_combinations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/longest_common_prefix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/merge_2_lists" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/min_cost_tickets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/palindrome_integer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/valid_parentheses" vcs="Git" />
+  </component>
+</project>
